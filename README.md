@@ -12,6 +12,8 @@ Let us look through overview:-
  • Parent Workflow: Parents register via an app, set up pediatric profiles, and manage appointments.
  • Integrated Communication: Prescriptions and lab reports are shared and discussed via WhatsApp, centralizing all records in a digital "OPD File".
 
+ 
+
 
  
  
